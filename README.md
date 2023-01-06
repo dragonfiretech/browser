@@ -11,13 +11,13 @@ Webview to display web pages
 
 Requirements
 
-  pip install PyQt5
+    pip install PyQt5
 
 Usage
 
 To run the browser, open a terminal and navigate to the directory containing the script, then enter the following command:
 
-  python browser.py
+    python browser.py
 
 The browser window will open, and you can use the navigation bar and address bar to browse the web.
 Customization
